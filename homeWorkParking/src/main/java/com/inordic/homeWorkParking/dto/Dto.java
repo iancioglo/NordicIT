@@ -1,0 +1,12 @@
+package com.inordic.homeWorkParking.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
+public class Dto {
+	private Integer number;
+}
